@@ -1,0 +1,23 @@
+{
+  "name": "interopjs-interface",
+  "version": "0.0.0",
+  "description": "interopjs interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interopjs/interopjs-interface.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/interopjs/interopjs-interface/issues"
+  },
+  "homepage": "https://github.com/interopjs/interopjs-interface#readme",
+  "dependencies": {
+    "symbol": "^0.3.1"
+  }
+}
